@@ -20,15 +20,15 @@
 
 ###
 
-<h1 align="center">hey devs 👋</h1>
-
-###
-
 <h3 align="center">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="center">Olá, sou Guilherme, mais conhecido como Gui, estudante de Análise e Desenvolvimento de Sistemas na UniSociesc, também faço cursos na Alura.<br>Comecei com desenvolvimento muito cedo fazendo mods e plugins para jogos em Java (.jar) e em Lua (.lua) mas era tudo um hobby.<br>Tinha um blogspot onde eu postava esses arquivos para outros usuários baixarem.<br>Administrava servidores e configurava para as pessoas usarem.<br>Sou formado no ensino médio integrado com programação.<br><br>- 📚 Atualmente estou estudando a linguagem Java | POO | Spring Boot | API.<br>- 🚧 Aprendi um pouco sobre HTML | CSS | JavaScript | Banco de dados.<br>- ⚡ Procurando meu primeiro estágio para dar inicio a minha carreira.</p>
+<p align="center">Olá, sou Guilherme, mais conhecido como Gui, estudante de Análise e Desenvolvimento de Sistemas na UniSociesc, também faço cursos na Alura.<br>Comecei com desenvolvimento muito cedo fazendo mods e plugins para jogos em Java (.jar) e em Lua (.lua) mas era tudo um hobby.<br>Tinha um blogspot onde eu postava esses arquivos para outros usuários baixarem.<br>Administrava servidores e configurava para as pessoas usarem.<br>Sou formado no ensino médio integrado com programação.<br><br>
+  - 📚 Atualmente estou estudando a linguagem JavaScript | <br>
+  - 🆙 Meus próximos passos são TypeScript "&&" Angular "||" React "||" Node
+  - 🚧 Aprendi um pouco sobre Java | C# | PHP | HTML | CSS | MySQL e Xamp.<br>
+  - ⚡ Procurando meu primeiro estágio para dar inicio a minha carreira.</p>
 
 ###
 
@@ -37,17 +37,22 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git plain logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
