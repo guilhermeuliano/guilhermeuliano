@@ -26,7 +26,7 @@
 
 <p align="center">Olá, sou Guilherme, mais conhecido como Gui, estudante de Análise e Desenvolvimento de Sistemas na UniSociesc, também faço cursos na Alura.<br>Comecei com desenvolvimento muito cedo fazendo mods e plugins para jogos em Java (.jar) e em Lua (.lua) mas era tudo um hobby.<br>Tinha um blogspot onde eu postava esses arquivos para outros usuários baixarem.<br>Administrava servidores e configurava para as pessoas usarem.<br>Sou formado no ensino médio integrado com programação.<br><br>
   - 📚 Atualmente estou estudando a linguagem JavaScript | <br>
-  - 🆙 Meus próximos passos são TypeScript "&&" Angular "||" React "||" Node
+  - 🆙 Meus próximos passos são TypeScript "&&" Angular "||" React "||" Node<br>
   - 🚧 Aprendi um pouco sobre Java | C# | PHP | HTML | CSS | MySQL e Xamp.<br>
   - ⚡ Procurando meu primeiro estágio para dar inicio a minha carreira.</p>
 
